@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <functional>
 #include <cinttypes>
+#include <string>
 #include "IUnknownInterfaceImpl.h"
 #include "SDK/apiOptions.h"
 

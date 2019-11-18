@@ -3,6 +3,7 @@
 #include "SDK/apiInternet.h"
 #include "IUnknownInterfaceImpl.h"
 #include <functional>
+#include <string>
 #include <set>
 
 class AimpHTTP {
